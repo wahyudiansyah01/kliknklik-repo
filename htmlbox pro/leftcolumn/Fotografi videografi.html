@@ -1,4 +1,4 @@
-450
+450,271,684,685,686,687,688,274,378,351,379,380,381,382,383,683,153,631,692,693,694,385,384,386,387,388,349,696,690,390,391,393,708,709,396,394,395,716,397,715,695,723,718,724,721,720
 <script src="https://rawgit.com/wahyudiansyah01/Desktop/master/abc.js"></script>
 <script>// <![CDATA[
 $("head").append("<style>.accordion-toggle {cursor: pointer;} .accordion-content {display: none;} .accordion-content.default {display: block;}</style>");
@@ -111,7 +111,7 @@ $(".accordion-content.default").css("display","block");
 </table>
 </div>
 </div>
-<div class="block block-highlighted topbrand" id="topbrand450">
+<div class="block block-highlighted hidden" id="topbrand450">
 <h4 class="title_block accordion-toggle"><span class="fa fa-bars"> </span><span> Top Brand</span></h4>
 <div class="block_content accordion-content">
 <table class="table">
@@ -150,7 +150,76 @@ $(".accordion-content.default").css("display","block");
 </table>
 </div>
 </div>
-<div class="block block-highlighted">
+<div class="block block-highlighted hidden" id="topbrand271">
+<h4 class="title_block accordion-toggle"><span class="fa fa-bars"> </span><span> Top Brand</span></h4>
+<div class="block_content accordion-content">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../274-canon"> Canon</a></td>
+</tr>
+<tr>
+<td><a href="../378-fujifim"> FujiFilm</a></td>
+</tr>
+<tr>
+<td><a href="../351-nikon"> Nikon</a></td>
+</tr>
+<tr>
+<td><a href="../379-olympus"> Olympus</a></td>
+</tr>
+<tr>
+<td><a href="../380-panasonic"> Panasonic </a></td>
+</tr>
+<tr>
+<td><a href="../381-pentax"> Pentax</a></td>
+</tr>
+<tr>
+<td><a href="../382-samsung"> Samsung</a></td>
+</tr>
+<tr>
+<td><a href="../383-sony"> Sony</a></td>
+</tr>
+<tr>
+<td><a href="../683-brand-kamera"> All Brand</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="block block-highlighted hidden" id="topbrand153">
+<h4 class="title_block accordion-toggle"><span class="fa fa-bars"> </span><span> Top Brand</span></h4>
+<div class="block_content accordion-content">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../385-canon"> Canon</a></td>
+</tr>
+<tr>
+<td><a href="../384-brica"> Brica</a></td>
+</tr>
+<tr>
+<td><a href="../386-jvc"> JVC</a></td>
+</tr>
+<tr>
+<td><a href="../387-samsung"> Samsung</a></td>
+</tr>
+<tr>
+<td><a href="../388-sony"> Sony</a></td>
+</tr>
+<tr>
+<td><a href="../349-toshiba"> Toshiba</a></td>
+</tr>
+<tr>
+<td><a href="../696-gopro"> GoPro</a></td>
+</tr>
+<tr>
+<td><strong><a href="../690-brand"> All Brand</a></strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="block block-highlighted hidden" id="panduan450">
 <h4 class="title_block accordion-toggle"><span class="fa fa-bars"> </span><span> Panduan Memilih Produk</span></h4>
 <div class="block_content accordion-content">
 <table class="table">
@@ -163,6 +232,27 @@ $(".accordion-content.default").css("display","block");
 </tr>
 <tr>
 <td><a href="#">Tips dan Trik Menggunakan Kamera</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="block block-highlighted hidden" id="panduan153">
+<h4 class="title_block accordion-toggle"><span class="fa fa-bars"> </span><span> Panduan Memilih Produk</span></h4>
+<div class="block_content accordion-content">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="#">Tips Membeli Camcorder</a></td>
+</tr>
+<tr>
+<td><a href="#">Mengenal Jenis Camcorder</a></td>
+</tr>
+<tr>
+<td><a href="#">Tips dan Trik Camcorder</a></td>
+</tr>
+<tr>
+<td><a href="#">Lihat Panduan Lengkap</a></td>
 </tr>
 </tbody>
 </table>
@@ -213,4 +303,26 @@ $(".accordion-content.default").css("display","block");
 var ui = window.location.pathname.split( '-' )[0].replace("/","");
 //$(".topbrand").css("display","none");
 eval("menu"+ui.toString()+".show()");
+console.log(ui);
+var numberpage = Number(ui);
+ var page = [450];
+if(page.indexOf( numberpage )>=0){
+ document.getElementById("topbrand450").classList.remove("hidden");
+ document.getElementById("panduan450").classList.remove("hidden");
+}
+
+var page = [271,684,685,686,687,688,274,378,351,379,380,381,382,383,683];
+if(page.indexOf( numberpage )>=0){
+ document.getElementById("topbrand271").classList.remove("hidden");
+ document.getElementById("panduan450").classList.remove("hidden");
+}
+var page = [153,631,692,693,694,385,384,386,387,388,349,696,690];
+if(page.indexOf( numberpage )>=0){
+ document.getElementById("topbrand153").classList.remove("hidden");
+ document.getElementById("panduan153").classList.remove("hidden");
+}
+var page = [390,391,393,708,709,396,394,395,716,397,715,695,723,718,724,721,720];
+if(page.indexOf( numberpage )>=0){
+ document.getElementById("panduan450").classList.remove("hidden");
+}
 // ]]></script>
