@@ -1,0 +1,158 @@
+449
+<style type="text/css" media="screen,print"><!--
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+--></style>
+<div class="container">
+<div class="row">
+<div class="col-sm-3 col-md-3">
+<div class="panel-group" id="accordion">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><span class="fa fa-bars"> </span> Kategori Produk</a></h4>
+</div>
+<div id="collapseOne" class="panel-collapse collapse in">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../43-printers#collapseOne">Printer</a></td>
+</tr>
+<tr>
+<td><a href="../6-projector">Projector</a></td>
+</tr>
+<tr>
+<td><a href="../52-scanner">Scanner</a></td>
+</tr>
+<tr>
+<td><a href="../581-interactive-board">Interactive Board</a></td>
+</tr>
+<tr>
+<td><a href="../617-lain-lain">Office Lain-lain</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><span class="fa fa-bars"> </span> Top Brand</a></h4>
+</div>
+<div id="collapseTwo" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../50-printer-canon">Printer Canon</a> <span class="label label-success">Hot</span></td>
+</tr>
+<tr>
+<td><a href="../47-printer-hewlett-packard">Printer HP</a></td>
+</tr>
+<tr>
+<td><a href="../51-printer-epson">Printer Epson</a></td>
+</tr>
+<tr>
+<td><a href="../43-printers">Lihat Semua Printer</a></td>
+</tr>
+<tr>
+<td><a href="../86-projector-infocus">Proyektor Infocus</a></td>
+</tr>
+<tr>
+<td><a href="../84-projector-epson">Proyektor Epson</a></td>
+</tr>
+<tr>
+<td><a href="../579-brand-projector">Lihat Semua Proyektor</a></td>
+</tr>
+<tr>
+<td><a href="../55-scanner-canon">Scanner Canon</a></td>
+</tr>
+<tr>
+<td><a href="../373-epson">Scanner Epson</a></td>
+</tr>
+<tr>
+<td><a href="../52-scanner">Lihat Semua Scanner</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><span class="fa fa-bars"> </span> Panduan Memilih Produk</a></h4>
+</div>
+<div id="collapseThree" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../content/63-panduan-membeli-printer">Panduan Membeli Printer</a></td>
+</tr>
+<tr>
+<td><a href="../content/62-panduan-membeli-projector">Panduan Membeli Projector</a></td>
+</tr>
+<tr>
+<td><a href="../blog/5-cara-efektif-merawat-printer-b44.html">5 Cara Efektif Merawat Printer</a></td>
+</tr>
+<tr>
+<td><a href="#">Mengenal Berbagai Tipe Scanner</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><span class="fa fa-bars"> </span> Promo Di Kliknklik</a></h4>
+</div>
+<div id="collapseFour" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../promo/">Promo Big Deal</a></td>
+</tr>
+<tr>
+<td><a href="../858-promo-cashback/">Promo Cashback</a></td>
+</tr>
+<tr>
+<td><a href="../content/45-free-ongkos-kirim">Gratis Ongkos Kirim</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseFive"><span class="fa fa-bars"> </span> Kategori Terkait</a></h4>
+</div>
+<div id="collapseFive" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../3-notebook">Laptop</a></td>
+</tr>
+<tr>
+<td><a href="../79-desktop">PC Desktop</a></td>
+</tr>
+<tr>
+<td><a href="../75-software">Software</a></td>
+</tr>
+<tr>
+<td><a href="../298-monitor-lcd-led">Monitor</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
