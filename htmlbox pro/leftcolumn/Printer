@@ -1,0 +1,182 @@
+43,297,115,50,51,135,47,239,240,409,49,131,462,463
+<style type="text/css" media="screen,print"><!--
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+.collapse { position: relative; overflow: hidden; }
+--></style>
+<div class="container">
+<div class="row">
+<div class="col-sm-3 col-md-3">
+<div class="panel-group" id="accordion">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><span class="fa fa-bars"> </span> Kategori Produk</a></h4>
+</div>
+<div id="collapseOne" class="panel-collapse collapse in">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../449-office-equipment"> Peralatan Kantor</a></td>
+</tr>
+<tr>
+<td><a href="../43-printers" style="padding-left: 20px;"><strong>Printer</strong></a></td>
+</tr>
+<tr>
+<td><a href="../599-printer-dot-matrix" style="padding-left: 35px;"> Dot Matrix</a></td>
+</tr>
+<tr>
+<td><a href="../614-printer-ink-tank" style="padding-left: 35px;"> Ink Tank</a></td>
+</tr>
+<tr>
+<td><a href="../601-printer-inkjet-color" style="padding-left: 35px;"> Ink Jet</a></td>
+</tr>
+<tr>
+<td><a href="../605-printer-inkjet-multi-fungsi" style="padding-left: 35px;"> Ink Jet Multifungsi</a></td>
+</tr>
+<tr>
+<td><a href="../608-printer-laser-mono" style="padding-left: 35px;"> Laser hitam putih</a></td>
+</tr>
+<tr>
+<td><a href="../609-printer-laser-mono-multi-fungsi" style="padding-left: 35px;"> Laser Hitam Multifungsi</a></td>
+</tr>
+<tr>
+<td><a href="../606-printer-laser-color" style="padding-left: 35px;"> Laser Warna</a></td>
+</tr>
+<tr>
+<td><a href="../607-printer-laser-color-multi-fungsi" style="padding-left: 35px;"> Laser Warna Multifungsi</a></td>
+</tr>
+<tr>
+<td><a href="../610-printer-photo" style="padding-left: 35px;"> Photo Printer</a></td>
+</tr>
+<tr>
+<td><a href="../598-printer-barcode" style="padding-left: 35px;"> Printer Label</a></td>
+</tr>
+<tr>
+<td><a href="../6-projector" style="padding-left: 20px;"> Projector</a></td>
+</tr>
+<tr>
+<td><a href="../52-scanner" style="padding-left: 20px;"> Scanner</a></td>
+</tr>
+<tr>
+<td><a href="../581-interactive-board" style="padding-left: 20px;"> Interactive Board</a></td>
+</tr>
+<tr>
+<td><a href="../160-layar-projector" style="padding-left: 20px;"> Layar Projector</a></td>
+</tr>
+<tr>
+<td><a href="../617-lain-lain" style="padding-left: 20px;"> Lain - lain</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><span class="fa fa-bars"> </span> Top Brand</a></h4>
+</div>
+<div id="collapseTwo" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../115-printer-brother"> Brother</a></td>
+</tr>
+<tr>
+<td><a href="../462-printer-badgy"> Badgy</a></td>
+</tr>
+<tr>
+<td><a href="../50-printer-canon"> Canon</a></td>
+</tr>
+<tr>
+<td><a href="../51-printer-epson"> Epson</a></td>
+</tr>
+<tr>
+<td><a href="../135-printer-fuji-xerox"> Fuji Xerox</a></td>
+</tr>
+<tr>
+<td><a href="../463-fujitsu"> Fujitsu</a></td>
+</tr>
+<tr>
+<td><a href="../47-printer-hewlett-packard"> HP</a></td>
+</tr>
+<tr>
+<td><a href="../239-printer-oki"> Oki</a></td>
+</tr>
+<tr>
+<td><a href="../240-printer-panasonic"> Panasonic</a></td>
+</tr>
+<tr>
+<td><a href="../409-ricoh"> Ricoh</a></td>
+</tr>
+<tr>
+<td><a href="../49-printer-samsung"> Samsung</a></td>
+</tr>
+<tr>
+<td><a href="../297-brand-printer"> All Brand</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><span class="fa fa-bars"> </span> Promo Di Kliknklik</a></h4>
+</div>
+<div id="collapseFour" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../promo/">Promo Big Deal</a></td>
+</tr>
+<tr>
+<td><a href="../858-promo-cashback/">Promo Cashback</a></td>
+</tr>
+<tr>
+<td><a href="../content/45-free-ongkos-kirim">Gratis Ongkos Kirim</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"> <span class="fa fa-bars"> </span> Kategori Terkait</a></h4>
+</div>
+<div id="collapseThree" class="panel-collapse collapse">
+<div class="panel-body">
+<table class="table">
+<tbody>
+<tr>
+<td><a href="../79-desktop">PC Desktop</a></td>
+</tr>
+<tr>
+<td><a href="../3-notebook">Laptop</a></td>
+</tr>
+<tr>
+<td><a href="../52-scanner">Scanner</a></td>
+</tr>
+<tr>
+<td><a href="../6-projector">Projector</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>// <![CDATA[
+$(document).ready(function(){
+document.location.hash='';
+});
+$(window.location.hash).addClass('in') ;
+// ]]></script>
