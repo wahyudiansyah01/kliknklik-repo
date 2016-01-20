@@ -7,13 +7,13 @@
            var id = node[i].getAttribute("href").match(/\d+/)[0];
            
            if(padd==="8px"){
-           eval("var menu"+id+" = new Menu(menu449,node[i].parentNode.parentNode)");
+           eval("var menu"+id+" = new Menu(menu836,node[i].parentNode.parentNode)");
            }
            if(padd==="40px"){
-           eval("var menu"+id+" = new Menu(menu449.child[menu449.child.length - 1],node[i].parentNode.parentNode)");
+           eval("var menu"+id+" = new Menu(menu836.child[menu836.child.length - 1],node[i].parentNode.parentNode)");
            }
            if(padd==="80px"){
-           eval("var menu"+id+" = new Menu(menu449.child[menu449.child.length - 1].child[menu449.child.child.length - 1],node[i].parentNode.parentNode)");
+           eval("var menu"+id+" = new Menu(menu836.child[menu836.child.length - 1].child[menu836.child.child.length - 1],node[i].parentNode.parentNode)");
            }
            }
            console.log(node);
