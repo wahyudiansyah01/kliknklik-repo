@@ -13,7 +13,7 @@
            eval("var menu"+id+" = new Menu(menu836.child[menu836.child.length - 1],node[i].parentNode.parentNode)");
            }
            if(padd==="80px"){
-           eval("var menu"+id+" = new Menu(menu836.child[menu836.child.length - 1].child[menu836.child.child.length - 1],node[i].parentNode.parentNode)");
+           eval("var menu"+id+" = new Menu(menu836.child[menu836.child.length - 1].child[menu836.child[menu836.child.length - 1].child.length - 1],node[i].parentNode.parentNode)");
            }
            }
            console.log(node);
