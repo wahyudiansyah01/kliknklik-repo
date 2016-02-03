@@ -1,0 +1,111 @@
+543,548,549,550,551,552,553,554,555,556,569,570
+<style type="text/css" media="screen,print"><!--
+	@import '/css/lab.css';
+	#wrap {
+ width:150px;
+ 
+	}
+/* Disable properties specified in the imported CSS file */
+	.menu a {
+ border:none;
+ font-weight:normal;
+
+	}
+
+/* Actual menu CSS starts here */
+	.menu,
+	.menu ul {
+ margin:0;
+ padding:0;
+ list-style:none;
+	}
+	.menu {width:180px;border: solid 1px #c3c2c2;}
+	.menu li {
+ display:block;
+ margin:0;
+ padding:0;
+ margin-bottom:1px;
+
+	}
+	.menu a {
+ display:block;
+ padding:8px 10px;
+ color:#666666;
+ background:#cc0605;
+ text-decoration:none;
+
+border-top: dotted 1px #c3c2c2;
+	}
+	.menu a:hover,
+	.menu a:focus,
+	.menu a:active {background:#fffff;color:#e05e5e;}
+	.menu ul li {padding-left:0px;}
+	.menu ul a {background:#ffffff;}
+	.hidden {display:none;}
+--></style>
+<!-- [if ie]>
+<style type="text/css" media="screen">
+	.menu a {zoom:1;}
+</style>
+<![endif]
+<script type="text/javascript" src="togglemenu.js"></script>-->
+<div id="wrap">
+<ul class="menu">
+<li>
+<div style="color: #ffffff;">Kategori</div>
+<ul>
+<li><a href="../447-komputer-dan-laptop">Komputer & Laptop</a></li>
+<li><a href="../79-desktop">&nbsp; &nbsp;PC Desktop</a></li>
+<li><a href="../542-tipe-desktop">&nbsp; &nbsp;&nbsp;&nbsp;Tipe Desktop</a></li>
+<li><a href="../548-amd-e-series">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD E Series</a></li>
+<li><a href="../569-amd-a4-series-">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AMD A4 Series</a></li>
+<li><a href="../549-intel-celeron">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Celeron</a></li>
+<li><a href="../570-intel-atom">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Atom</a></li>
+<li><a href="../550-intel-pentium">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Pentium</a></li>
+<li><a href="../551-intel-core-i3">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Core i3</a></li>
+<li><a href="../552-intel-core-i5">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Core i5</a></li>
+<li><a href="../553-intel-core-i7">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Core i7</a></li>
+<li><a href="../554-intel-xeon">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel Xeon</a></li>
+<li><a href="../555--2-dual-core">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 (dual) Core</a></li>
+<li><a href="../556-4-quad-core">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 (Quad) COre</a></li>
+</ul>
+</li>
+<li>
+<div style="color: #ffffff;">Brand</div>
+<ul>
+<li><a href="../106-desktop-acer">Acer</a></li>
+<li><a href="../138-advan">Advan</a></li>
+<li><a href="../98-desktop-apple">Apple</a></li>
+<li><a href="../120-asus">Asus</a></li>
+<li><a href="../108-desktop-axioo">Axioo</a></li>
+<li><a href="../100-desktop-dell">Dell</a></li>
+<li><a href="../109-desktop-fujitsu">Fujitsu</a></li>
+<li><a href="../110-desktop-hp-compaq">HP Compaq</a></li>
+<li><a href="../101-desktop-lenovo">Lenovo</a></li>
+<li><a href="../99-desktop-sony">Sony</a></li>
+<li><a href="../350-samsung">Samsung</a></li>
+<li><a href="../154-toshiba">Toshiba</a></li>
+</ul>
+</li>
+<li>
+<div style="color: #ffffff;">Panduan Memilih Produk</div>
+<ul>
+<li><a href="../content/48-panduan-membeli-komputer">Mengetahui Berbagai Jenis Komputer</a></li>
+<li><a href="../content/52-panduan-membeli-desktop">Panduan Memilih Dekstop</a></li>
+<li><a href="../content/58-cara-mempercepat-kinerja-komputer-anda">Cara Mempercepat Kinerja Komputer</a></li>
+<li><a href="../content/60-sekilas-mengenai-prosesor-komputer">Sekilas Mengenai Prosesor Komputer</a></li>
+<li><a href="../content/57-pilih-mac-atau-windows">Mac vs Windows : Mana yang cocok untuk anda?</a></li>
+<li><a href="../content/60-sekilas-mengenai-prosesor-komputer">Sekilas Mengenai Prosesor Komputer</a></li>
+</ul>
+</li>
+<li>
+<div style="color: #ffffff;">Kategori Terkait</div>
+<ul>
+<li><a href="../43-printers">Printer</a></li>
+<li><a href="../56-mouse">Mouse</a></li>
+<li><a href="../471-keyboard">Keyboard</a></li>
+<li><a href="../298-monitor-lcd-led">Monitor</a></li>
+</ul>
+</li>
+</ul>
+</div>
