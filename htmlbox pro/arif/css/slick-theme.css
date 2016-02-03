@@ -86,11 +86,11 @@
 }
 .slick-prev:before
 {
-    content: 'â€¹';
+    content: '‹';
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: 'â€º';
+    content: '›';
 }
 
 .slick-next
@@ -104,11 +104,11 @@
 }
 .slick-next:before
 {
-    content: 'â€º';
+    content: '›';
 }
 [dir='rtl'] .slick-next:before
 {
-    content: 'â€¹';
+    content: '‹';
 }
 
 /* Dots */
@@ -185,7 +185,7 @@
     width: 20px;
     height: 20px;
 
-    content: 'â€¢';
+    content: '•';
     text-align: center;
 
     opacity: .25;
