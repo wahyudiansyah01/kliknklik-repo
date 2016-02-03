@@ -1,0 +1,88 @@
+523
+<style type="text/css" media="screen,print"><!--
+	@import '/css/lab.css';
+	#wrap {
+ width:150px;
+ 
+	}
+#title{
+color:#FF0000;
+ font-weight:small;
+ font-family: Helvetica,Arial,Tahoma,sans-serif;
+ font-size: 12px; 
+font-weight:bold;
+padding:5px 5px 5px 10px;
+
+
+
+}
+
+#title1{
+color:#FF0000;
+ font-weight:small;
+ font-family: Helvetica,Arial,Tahoma,sans-serif;
+ font-size: 13px; 
+font-weight:bold;
+padding:5px 5px 5px 10px;
+}
+
+
+/* Disable properties specified in the imported CSS file */
+	.menu a {
+ border:none;
+	 font-weight:small;
+ font-family: "trebuchet MS",sans-serif;
+ font-size: 11px; 
+color:#333333;
+letter-spacing: inherit;
+	}
+
+/* Actual menu CSS starts here */
+	.menu,
+	.menu ul {
+ margin:0;
+ padding:0;
+ list-style:none;
+
+	}
+	.menu {width:180px;border: solid 1px #DDDDDD;}
+	.menu li {
+ display:block;
+ margin:0;
+ padding:0;
+ margin-bottom:0px;
+
+
+
+	}
+	.menu a {
+ display:block;
+ padding:5px 10px;
+ color:#666666;
+ background:#cc0605;
+ text-decoration:none;
+	}
+	.menu a:hover,
+	.menu a:focus,
+	.menu a:active {background:#fffff;color:#e05e5e;}
+	.menu ul li {padding-left:0px;padding-right:10px;}
+	.menu ul a {background:#ffffff;}
+	.hidden {display:none;}
+ hr {
+ border: none;
+ border-top: 1px dotted black;
+
+
+ }
+--></style>
+<div id="wrap">
+<ul class="menu">
+<li>
+<div id="title">Testimonial Customer</div>
+<ul>
+<li><img src="../promo/img/linered.png" style="padding: 10px;" /></li>
+<li><a href="https://www.facebook.com/kliknklikcom/posts/828258347226389">"Kilknklik memang oke. Jadi jangan ragu-ragu untuk belanja di kliknklik." <br /> <b>Hadi Nugraha</b> <br /> <span color="red" style="color: red;">Read more</span> </a></li>
+</ul>
+</li>
+</ul>
+</div>
