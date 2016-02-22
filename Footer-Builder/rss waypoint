@@ -1,0 +1,12 @@
+<div id="pengumuman" style="background-color: white; padding: 5px; height: 150px; width: 375px; border-width: 3px 1px 1px; border-style: solid; border-color: #C3C5C4 #E3E3E3 #E3E3E3;">
+<h5 style="color: black;">KLIKNKLIK NEWS UPDATE</h5>
+</div>
+<script src="/arif/js/fetchrss.js"></script>
+<script>// <![CDATA[
+$('#pengumuman').waypoint(function() {
+   fetchrss('pengumuman',"/blogs/category/press-release/feed/");
+ this.destroy();
+}, {
+    offset: '100%'
+});
+// ]]></script>
