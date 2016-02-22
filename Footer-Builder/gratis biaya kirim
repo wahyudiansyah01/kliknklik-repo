@@ -1,0 +1,10 @@
+wpo-ourservice widget-ourservice 
+<div class="media ">
+<div class="pull-left  " style="background: url('/img/sprites.png') no-repeat; background-position: -6px -1px; width: 40px; height: 40px; margin-right: 10px;"> </div>
+<div class="media-body">
+<h4 class="ourservice-heading">Gratis Biaya Kirim</h4>
+<div class="ourservice-content">
+<p style="padding: 0px; color: whitesmoke;">Gratis Ongkos kirim untuk area Jakarta dan Sekitarnya</p>
+</div>
+</div>
+</div>
