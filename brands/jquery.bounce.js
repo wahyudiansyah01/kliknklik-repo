@@ -83,7 +83,7 @@
 
 	    var p = $(this).position();
 
-	    $(this).css('position', 'absolute')
+	    $(this).css('position', 'relative')
 		.css('left', p.left).css('top', p.top);
 
 	    bounce($(this));
