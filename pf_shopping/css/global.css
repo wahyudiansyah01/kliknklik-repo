@@ -9633,17 +9633,16 @@ body.layout-boxed-lg #page .container {
 @media only screen and (max-width: 756px) {
 
   #header_logo {
-  position: fixed;
+ 
   z-index: 9999;
   width: 756%;
   margin-top: 10px;
   margin-left: -80px; 
   
-  float: none!important;
+  
   text-align: left;
   background-color: white;
-  height:80px;
-    
+  
 }
 }
 /*======================================================*/
@@ -9915,11 +9914,11 @@ body.layout-boxed-lg #page .container {
 
 @media all and (max-width: 991px){
   #pts-mainnav {
-  position: fixed;
+  
   z-index: 9999;
   width: 100%;
   float: none!important;
-  margin-top: 80px;
+ 
   background: #333333;
   min-height: 50px;
   color: #999999;
