@@ -1,4 +1,53 @@
 @charset "UTF-8";
+<!--25/04/16 by Arif-->
+
+  .eventbanner div p{
+      line-height: 1.4vw;margin: 1.4vw;padding: 0px;
+    }
+    .eventbanner div p span:first-child{
+            font-size:20px;font-size: 1.8vw;
+        }
+    .eventbanner div p span:last-child{
+            font-size:15px;font-size: 1.1vw;
+        }
+    
+    @media screen and (max-width: 768px) {
+       
+        .eventbanner div p{
+       margin:10px;line-height: 100%;padding: 0px;
+    }
+        .eventbanner div p span:first-child{
+            font-size: 14px; 
+        }
+        .eventbanner div p span:last-child{
+            font-size:10px;
+        }
+}
+<!--end by Arif-->
+ a.whitelink, a.whitelink:hover,  a.whitelink:visited, a.whitelink:active{
+     text-decoration: none;
+color:white;
+    }
+
+.h4titleblock:before{
+
+position: absolute;
+    top: 100%;
+    left: 20px;
+    content: "";
+    border: 6px solid transparent;
+    display: block;
+    width: 0;
+    height: 0;
+    z-index: 999;
+border-top-color: #cf000f;
+}
+
+
+.h4titleblock{
+text-transform: uppercase; color: white; background-color: #cf000f; border-color: #cf000f; padding: 14px 15px; position: relative; background: transparent; font-family: 'Montserrat', sans-serif; font-size: 14px; line-height: 20px; letter-spacing: 0px; font-weight: 600; margin: 0;
+}
+
 #index #carousel{max-height:317px;}
 .cover{
 background-repeat: no-repeat;
@@ -9085,7 +9134,7 @@ a.text-gray:hover {
   .sidebar .block .title_block {
     cursor: pointer;
   }
-  .sidebar .block .title_block:after {
+  .sidebar .block .title_block:after{
     font-family: FontAwesome;
     position: absolute;
     right: 15px;
@@ -9248,7 +9297,7 @@ body.layout-boxed-lg #page .container {
   border-bottom: 1px solid #e1e1e1;
   line-height: 22px;
   height: 30px;
- /* set animation*/
+  // set animation
             -webkit-transition: all 0.3s ease-out;
             transition: all 0.3s ease-out;
 }
@@ -9411,7 +9460,7 @@ body.layout-boxed-lg #page .container {
   z-index: 9999;
   position: fixed;
   margin-left: 515px;
-  /*set animation*/
+  // set animation
             -webkit-transition: all 0.7s ease;
             transition: all 0.7s ease;
 }
@@ -9606,13 +9655,13 @@ body.layout-boxed-lg #page .container {
 
 #header_logo {
   z-index: 9999;
-  width: 1366px;
+  width: 1390px;
   margin-top: 10px;
   margin-left: -80px;
   text-align: left;
   background-color: white;
   height:40px;
-  /* set animation*/
+  // set animation
             -webkit-transition: all 0.7s ease-in-out;
             transition: all 0.7s ease-in-out;
 }
@@ -9622,9 +9671,9 @@ body.layout-boxed-lg #page .container {
   text-align: left;
   background-color: white;
   height:50px;
-  width: 1366px;
+  width: 1390px;
   margin-top: -10px;
-  margin-left: -120px;
+  margin-left: -100px;
   top:0px;
 }
 
@@ -9890,7 +9939,7 @@ body.layout-boxed-lg #page .container {
   background: #333333;
   min-height: 20px;
   color: #999999;
-  /* set animation*/
+  // set animation
             -webkit-transition: all 1.2s ease-in-out;
             transition: all 1.2s ease-in-out;
             -direction: reverse;
@@ -11478,7 +11527,7 @@ body.layout-boxed-lg #page .container {
   top: 5px;
   padding-bottom: 16px;
   margin-bottom: -16px;
-    /* set animation*/
+    // set animation
             -webkit-transition: all 0.4s ease;
             transition: all 0.4s ease;
 }
@@ -11565,7 +11614,7 @@ body.layout-boxed-lg #page .container {
   top: 5px;
   padding-bottom: 16px;
   margin-bottom: -16px;
-    /* set animation*/
+    // set animation
             -webkit-transition: all 0.4s ease;
             transition: all 0.4s ease;
 }
@@ -12520,7 +12569,7 @@ div.verticalmenu.sticky .dropdown-menu ul li a {
   margin-left: 475px;
   text-align: right;
   position: static;
-  float: right !important;
+  float: right:!important;
 
 }
 /*--------------------------------------*/
@@ -15523,6 +15572,7 @@ p.katdes{
 
 /*MINI HOME PAGE SLIDER*/
 .pgwSlider {
+  display: inline-block;
     width: 100%;
     color: #fff;
 }
@@ -15731,7 +15781,7 @@ ul.pgwSlider.narrow.listOnTheLeft > li,
 }
 
 #gambarz{
-  
+  {
     width: 100%;
     position: absolute;
     top: 0;
