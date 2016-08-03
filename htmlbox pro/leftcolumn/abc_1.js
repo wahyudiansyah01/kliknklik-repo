@@ -37,7 +37,7 @@ this.node.classList.remove("hidden");
 };
 
 this.topbrand = function(){
-    console.log(document.getElementById(("topbrand"+this.id)));
+    console.log(this.id);
   /*if(document.getElementById("topbrand"+this.id)){
       document.getElementById("topbrand"+this.id).classList.remove("hidden");
   } 
